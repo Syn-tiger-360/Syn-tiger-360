@@ -3,7 +3,7 @@
 **A Generative Synthesis Approach for Wildlife Individual Re-Identification**
 
 [![Paper PDF (Coming Soon)](https://img.shields.io/badge/PDF-Coming_Soon-red?logo=adobe-acrobat-reader&logoColor=white)](#)
-[![Dataset](https://img.shields.io/badge/Dataset-Google_Drive-blue?logo=google-drive&logoColor=white)](https://drive.google.com/drive/folders/YOUR_DATASET_LINK_HERE)
+[![Dataset](https://img.shields.io/badge/Dataset-Google_Drive-blue?logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1pK4n_eP-g8cGR9JTlH_3kcauN68ZSLbv/view)
 
 ### Highlights
 - First framework to generate high-fidelity **360° tiger videos** using image-to-video foundation models for wildlife Re-ID.
@@ -22,9 +22,12 @@
 
 ![More Animals 360° Rotations](assets/more_animals.gif)
 
+### Download Dataset
+The raw video dataset is available in [Google Drive](https://drive.google.com/file/d/1pK4n_eP-g8cGR9JTlH_3kcauN68ZSLbv/view).
+
 If you have any questions, encounter issues, or want to contribute, please feel free to raise an issue! [Open an Issue](https://github.com/qsong/syn-tiger-360/issues/new)
 
-Please also feel free to email me at syn_tiger_360@163.com if you have any questions.
+Please also feel free to email me at syn_tiger_360@yeah.net if you have any questions.
 
 
 
